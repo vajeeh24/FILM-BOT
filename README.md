@@ -1,13 +1,6 @@
 ## URL Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ V4 🚀
 
-[![vajeeh24](https://www.herokucdn.com/deploy/button .svg)](https://heroku.com/deploy?template=Link)
-
-
-
-
-
-
-
+[![vajeeh24](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vajeeh24/FILM-BOT/blob/main/README.md )
 
 
 
